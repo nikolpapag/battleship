@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author nikol
+ *
+ */
+package Battleshipgame;
